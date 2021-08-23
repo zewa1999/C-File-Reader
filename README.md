@@ -1,2 +1,3 @@
 # C-File-Reader
-In this repo you can find a thread safe reader of one or multiple files
+In this repo you can find an asynchronous file reader.
+You can read one or more multiple files.
